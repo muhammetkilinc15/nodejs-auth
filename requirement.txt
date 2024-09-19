@@ -1,0 +1,3 @@
+npm i express cookie-parser mailtrap bcryptjs dotenv jsonwebtoken mongoose crypto==>  server için gerekli package
+
+npm i nodemon -D  ==> Bir değişiklik olunca kendisini otamatik baslatacak
